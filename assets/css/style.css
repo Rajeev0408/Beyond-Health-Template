@@ -1694,7 +1694,7 @@ main#main {
 .preloader-icon h2 {
   font-family: "curly";
   letter-spacing: 2px;
-  font-size: 4rem;
+  font-size: 2.5rem;
   animation: fade 3s ease-in;
 }
 
